@@ -1,0 +1,1 @@
+# Color-of-Rectangle-JS-Script-for-Illustrator
